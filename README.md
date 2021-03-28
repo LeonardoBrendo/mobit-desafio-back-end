@@ -8,7 +8,7 @@
 
 4 - Para executar o projeto, levando em consideração a utilização do software STS, clique com o botão direito do mouse sobre o projeto e na alternativa Run As -> Spring boot App.
 
-5 - Se surgir algum problema em decorrência da sincronização com o maven, execute "mvn clean install compile" (sem aspas).
+5 - Se surgir algum problema em decorrência da sincronização com o maven, execute "mvn clean install compile" (sem aspas) na pasta principal do projeto.
 
 # Informação adicional.
 
