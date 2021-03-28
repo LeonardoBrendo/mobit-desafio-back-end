@@ -12,7 +12,8 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/api/contato")
-@CrossOrigin("http://localhost:4200")
+//@CrossOrigin("http://localhost:4200")
+@CrossOrigin("https://cadastro-contato.herokuapp.com")
 public class ContatoController {
 	
 	private final ContatoService service;
